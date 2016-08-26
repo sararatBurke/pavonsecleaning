@@ -1,5 +1,5 @@
 body{
-	background-color: 
+	background-color:  #e6faff;
 }
 a{
 	text-decoration: none;
@@ -49,6 +49,11 @@ a{
 
 .body{
 	margin: 0px;
+	background-color: white;
+	width: 70%;
+	height: 100%;
+	margin: auto;
+	margin-top: -20px;
 }
 
 .footer{
