@@ -1,5 +1,50 @@
+body{
+	background-color: 
+}
+a{
+	text-decoration: none;
+}
+
 .header{
 	margin: 0px;
+	width: 100%;
+	height: 115px;
+	background: #ccf5ff;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+	position: relative;
+	display: inline-block;
+
+}
+.container{
+	float: right;
+	margin-right: 200px;
+	margin-top: 45px;
+	padding: 0px;
+}
+
+#logo{
+	margin-left: 200px;
+	display: inline-block;
+	width: 150px;
+	position: relative;
+	float: left;
+}
+.headerMenu a{
+	color:#008fb3
+}
+.headerMenu a:hover{
+	color:#003d4d;
+	text-decoration: underline;
+}	
+.headerMenu a:ative{
+	color:#003d4d;
+}
+.headerMenu{
+	margin: 0px;
+	margin-left: 40px;
+	display: inline-block;
+	color: black;
+
 }
 
 .body{
