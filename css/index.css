@@ -5,7 +5,7 @@ a{
 	text-decoration: none;
 }
 
-
+/*Header Menu*/
 .header{
 	margin: 0px;
 	width: 100%;
@@ -49,7 +49,7 @@ a{
 }
 
 
-
+/*Body*/
 
 .body{
 	margin: 0px;
@@ -62,7 +62,7 @@ a{
 }
 
 
-
+/*Footer*/
 
 .footer{
 	margin: 0px;
