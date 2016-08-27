@@ -5,11 +5,12 @@ a{
 	text-decoration: none;
 }
 
+
 .header{
 	margin: 0px;
 	width: 100%;
 	height: 115px;
-	background: #ccf5ff;
+	background: #99d6ff;
 	font-family: Geneva, Tahoma, Verdana, sans-serif;
 	position: relative;
 	display: inline-block;
@@ -47,15 +48,81 @@ a{
 
 }
 
+
+
+
 .body{
 	margin: 0px;
-	background-color: white;
-	width: 70%;
-	height: 100%;
 	margin: auto;
 	margin-top: -20px;
+
+	width: 75%;
+	height: 100%;
+	background-color: white;
 }
+
+
+
 
 .footer{
 	margin: 0px;
+	margin-top: -15px;
+	position: relative;
+
+	background-color: #66c2ff;
+	width: 100%;
+	height: 250px;
+
 }
+
+.allWords{
+	margin: 0px;
+	width: 100%;
+	height: 100px;
+	background-color: #006bb3;
+}
+.firstLine{
+	position: relative;
+	margin-left: 22.5%;
+}
+
+.word{
+	position: relative;
+	display: inline-block;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+
+}
+#blue{
+	margin-top: 20px;
+	position: relative;
+
+	font-size: 140%;
+	text-shadow:1px 1px 1px #006699;
+	color:#66ccff;
+}
+
+.secondLine{
+	margin-top: -15px;
+	position: relative;
+	margin-left: 25.5%;
+}
+#white{
+	position: relative;
+	margin:0px;
+
+	font-size: 140%;
+	text-shadow:1px 1px 1px #006699;
+	color: #e6f2ff;
+}
+#line{
+	position: relative;
+	margin:7px;
+	background-color: black;
+	width: 80px;
+	height: 4px;
+}
+
+
+
+
+
