@@ -30,22 +30,22 @@ a{
 	position: relative;
 	float: left;
 }
-.headerMenu a{
-	color:#008fb3
-}
-.headerMenu a:hover{
-	color:#003d4d;
-	text-decoration: underline;
-}	
-.headerMenu a:ative{
-	color:#003d4d;
-}
-.headerMenu{
+.container> li{
 	margin: 0px;
 	margin-left: 40px;
 	display: inline-block;
 	color: black;
 
+}
+.container a{
+	color:#008fb3
+}
+.container a:hover{
+	color:#003d4d;
+	text-decoration: underline;
+}	
+.container a:active{
+	color:#003d4d;
 }
 
 
