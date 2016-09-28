@@ -91,7 +91,39 @@ a{
 	width: 60%;
 }
 
+
+
 /*-----------Slider-----------*/
+.slider{
+	position: relative;
+	margin: auto;
+	margin-top: -3px;
+	margin-bottom: 20px;
+	width: 75%;
+	height: 100%;
+	background-color: white;
+}
+.slide{
+	position: relative;
+	width: 100%;
+	margin: auto;
+}
+.pad{
+	position: relative;
+	margin-top:-418px;
+	margin-left: 76%;
+
+
+
+	background-color: white;
+	width: 140px;
+	height: 470px;
+
+	-webkit-transform: rotateZ(25deg); /* Safari */
+    transform: rotateZ(25deg); /* Standard syntax */
+
+}
+
 
 
 /*-----------About-----------*/
