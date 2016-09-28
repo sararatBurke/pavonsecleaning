@@ -6,7 +6,10 @@ a{
 	text-decoration: none;
 }
 
-/*Header Menu*/
+
+
+/*-----------Header Menu-----------*/
+
 .header{
 	margin: 0px;
 	width: 100%;
@@ -49,7 +52,7 @@ a{
 }
 
 
-/*Body*/
+/*-----------Index Body-----------*/
 
 .body{
 	position: relative;
@@ -88,8 +91,16 @@ a{
 	width: 60%;
 }
 
+/*-----------Slider-----------*/
 
-/*Footer*/
+
+/*-----------About-----------*/
+
+/*------------Galery----------*/
+
+
+/*--------------Footer------------*/
+		/*-----contact------*/
 
 .footer{
 	margin: 0px;
