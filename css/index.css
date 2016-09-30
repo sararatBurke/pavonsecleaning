@@ -110,18 +110,41 @@ a{
 }
 .pad{
 	position: relative;
-	margin-top:-418px;
-	margin-left: 76%;
+	margin-top:-46%;
+	margin-left: 70%;
 
 
 
 	background-color: white;
-	width: 140px;
-	height: 470px;
+	width: 18%;
+	
 
-	-webkit-transform: rotateZ(25deg); /* Safari */
-    transform: rotateZ(25deg); /* Standard syntax */
+	-webkit-transform: rotateZ(15deg); /* Safari */
+    transform: rotateZ(15deg); /* Standard syntax */
 
+}
+
+.statement{
+	color: #008fb3;
+	margin: auto;
+	margin-left: 5%;
+
+	padding-top: 22%;
+	padding-bottom: 22%;
+
+	-webkit-transform: rotateZ(-15deg);
+	transform: rotateZ(-15deg);
+}
+.line{
+	position: relative;
+	margin-left: 10%;
+	width: 50%;
+	height: 5px;
+	background-color: #d9e6f2;
+
+
+	-webkit-transform: rotateZ(-15deg);
+	transform: rotateZ(-15deg);
 }
 
 
